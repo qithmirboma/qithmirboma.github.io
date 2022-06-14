@@ -1,0 +1,31 @@
+body {
+  background-color: #9d7030;
+  background-image: url(img/bg1.png);
+  padding-bottom: 5rem;
+}
+
+.jumbotron {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+}
+
+#menikah {
+  padding-top: 8rem;
+}
+
+h3 {
+  font-family: "Lobster", cursive;
+}
+
+#ortu {
+  font-family: "Kdam Thmor Pro", sans-serif;
+}
+
+#undangan {
+  padding-top: 6rem;
+}
+
+audio {
+  width: 200px;
+  height: 200px;
+}
